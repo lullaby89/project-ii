@@ -1,0 +1,3 @@
+# project-ii
+
+BLOG THEME: a training course/project on the design of a blog theme using HTML and CSS together with normalize.css...
