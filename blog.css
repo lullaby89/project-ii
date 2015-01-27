@@ -1,0 +1,54 @@
+header {
+  text-align: center;
+  background: url('http://theglossier.com/wp-content/uploads/2013/06/mask02.jpg');
+  background-size: cover;
+  color: black;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+}
+
+ul {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+article {
+  max-width: 500px;
+  padding: 20px;
+  margin: 0px auto;
+  text-align: justify;
+  font-size: 18px;
+}
+
+body {
+  background: url("https://0.s3.envato.com/files/51421012/Background-Flower-2416-prw.jpg");
+}
+@media (max-width: 500px) {
+  body {
+    background: red;
+  }
+  h1 {
+    font-size: 36px;
+  }
+  li {
+    display: block;
+    padding: 5px;
+  }  
+}
